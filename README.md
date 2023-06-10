@@ -1,4 +1,5 @@
-[![MasterHead](https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif)]
+![MasterHead](https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif)
+
 
 <h1 align="center">Hi 👋, I'm Deepak P G</h1>
 <h3 align="center">A Noob Developer</h3>
