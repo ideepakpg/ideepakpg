@@ -2,22 +2,22 @@
   <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Deepak P G</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">Hi, I'm Deepak P G</h1>
+<h3 align="center">Dot Net Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ideepakpg&label=Profile%20views&color=0e75b6&style=flat" alt="ideepakpg" /> </p>
 
-- 🌱 I’m currently learning **.Net Framework**
+-  I'm currently working as a **Dot Net Developer**
 
-- 💬 Ask me about **Telegram Bots**
+-  Want to watch me rage-quit in style? Hit me up on 🎮 [Steam](https://steamcommunity.com/profiles/76561199184366517/) ! 
 
-- 📫 How to reach me **deepakpg121@gmail.com**
+-  Reach me **[here](https://t.me/ideepakpg)** 📫
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/deep4kpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deep4kpg" height="30" width="40" /></a>
-<a href="https://instagram.com/deep4k.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deep4k.exe" height="30" width="40" /></a>
-<a href="https://discord.gg/CRx7GSky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CRx7GSky" height="30" width="40" /></a>
+<a href="https://twitter.com/ideepakpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ideepakpg" height="30" width="40" /></a>
+<a href="https://instagram.com/ideepakpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ideepakpg" height="30" width="40" /></a>
+<a href="https://discord.com/users/755304206210039848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CRx7GSky" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -52,7 +52,4 @@
 <img src="https://myreadme.vercel.app/api/embed/ideepakpg?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=ideepakpg&theme=juicyfresh&no-bg=true" />
-
-![Metrics](https://metrics.lecoq.io/ideepakpg?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
-
 
